@@ -19,15 +19,16 @@ li, ul {
     padding: 0;
 }
 header {
-    background: #d130308b;
+     background: #d130308b;
     background-image: linear-gradient(62deg, #11101078 0%, #ae141474 100%);
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 1px 750px;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
     box-sizing: border-box;
     color: #9ea5caa6;
-
+    
     
     
   }
